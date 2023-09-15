@@ -16,3 +16,6 @@ Another example:
 - venteprivee 
 
 In this case you need to specify at least 3 letters. With the ﬁrst one you only need one character (p) to completely identify the string, but with the second and the third ones you need at least 3 characters (vee and ven).
+
+
+[![HitCount](https://hits.dwyl.com/asotomayor/Python-Problems.svg?style=flat-square&show=unique)](http://hits.dwyl.com/asotomayor/Python-Problems)
